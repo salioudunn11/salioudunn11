@@ -60,8 +60,21 @@
   </a>
 </div>
 
-###
+## 🚀 Featured Projects
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salioudunn11&theme=dracula&hide_border=true" height="150" />
-</div>
+🔹 **Salary Data Analysis**
+- Analyzed salary trends based on experience, education, industry, and work type
+- Used Python (Pandas, NumPy) to clean and explore a large dataset
+- Created visualizations to compare remote, hybrid, and on-site roles
+
+🔹 **NYC Open Data Analysis**
+- Worked with large real-world datasets to identify patterns and insights
+- Used data cleaning and visualization techniques to support findings
+
+🔹 **Google Play Store Analysis**
+- Explored app ratings, installs, and categories using Python
+- Built visualizations to understand user behavior and app performance
+
+🔹 **Restaurant Inspection Analysis**
+- Analyzed food safety data to identify trends in violations
+- Used data aggregation and filtering to highlight key risk factors
