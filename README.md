@@ -19,6 +19,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
 </div>
 
