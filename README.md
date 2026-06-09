@@ -13,8 +13,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=r" height="60" alt="r logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
